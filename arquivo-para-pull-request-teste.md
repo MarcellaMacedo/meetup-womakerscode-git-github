@@ -1,3 +1,3 @@
 ##Pull Request Teste
 
-Esse arquivo é para Pull Request expermiental
+Esse arquivo é para Pull Request experimental
